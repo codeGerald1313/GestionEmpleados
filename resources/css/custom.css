@@ -1,0 +1,16 @@
+.btn-group .btn {
+    margin-right: 5px; /* Espacio entre botones */
+}
+
+.btn-group .btn:last-child {
+    margin-right: 0; /* Elimina el margen derecho del último botón */
+}
+
+.table .btn {
+    min-width: 36px; /* Ancho mínimo para los botones */
+    padding: 6px 10px; /* Ajustar el padding */
+}
+
+.table .btn i {
+    margin: 0; /* Remover márgenes del ícono */
+}
